@@ -9,5 +9,8 @@ package exercicisestrucuturescondicionals;
  * @author aag7815
  */
 public class ex3 {
-    
+    public static void main(String[] args) {
+        //test
+    }
+   
 }
